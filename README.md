@@ -53,3 +53,46 @@ Kode ini meminta pengguna untuk memasukkan tiga bilangan: a, b, dan c. Input dar
 
 # Latihan 3 Kasus 1 Pemesanan Tiket Bioskop
 
+![Flowchartr](https://github.com/user-attachments/assets/7a19516e-b0a6-42dc-a53d-b946a2c63ea0)
+
+Saya akan menjelaskan alur flowchart tersebut yang menggambarkan sistem pembayaran dengan dua tipe tiket:
+
+Mulai dari atas, terdapat pilihan jenis tiket:
+
+Reguler dengan harga dasar Rp 50.000
+
+VIP dengan harga dasar Rp 100.000
+
+Kemudian ada pengecekan status member:
+
+Jika "Ya" (anggota):
+
+Dari Regular: Mendapat diskon 20% sehingga total bayar = Rp 40.000
+
+Dari VIP: Mendapat diskon 20% sehingga total bayar = Rp 80.000
+
+Jika "Tidak" (bukan member):
+
+Dari Regular: Tidak ada diskon, total bayar = Rp 50.000
+
+Dari VIP: Tidak ada diskon, total bayar = Rp 100.000
+
+Semua alur berakhir di "Selesai" setelah perhitungan total pembayaran
+
+Sistem ini menerapkan:
+
+Dua kategori tiket (Reguler dan VIP)
+
+Sistem keanggotaan yang memberikan keuntungan diskon 20%
+
+Harga akhir yang berbeda tergantung kombinasi tipe tiket dan status member
+
+# Latihan 3 Khusus 2 Program Kalkulator Sederhana
+
+
+
+Secara praktis, pelanggan dapat menghemat:
+
+Rp 10.000 untuk tiket Regular jika memiliki keanggotaan
+
+Rp 20.000 untuk tiket VIP jika memiliki keanggotaan
