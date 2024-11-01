@@ -90,6 +90,8 @@ Harga akhir yang berbeda tergantung kombinasi tipe tiket dan status member
 # Latihan 3 Khusus 2 Program Kalkulator Sederhana
 ![WhatsApp Image 2024-11-01 at 16 20 10_4cc33fec](https://github.com/user-attachments/assets/1db00987-4f7e-4895-8db1-43df3813a20a)
 
+![Lanjutan latihan 3 kasus 1](https://github.com/user-attachments/assets/c1af2db3-2492-4bb3-81ea-aae906b3485b)
+
 
 
 
