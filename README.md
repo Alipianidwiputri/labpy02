@@ -55,6 +55,8 @@ Kode ini meminta pengguna untuk memasukkan tiga bilangan: a, b, dan c. Input dar
 
 ![Flowchartr](https://github.com/user-attachments/assets/7a19516e-b0a6-42dc-a53d-b946a2c63ea0)
 
+
+
 Saya akan menjelaskan alur flowchart tersebut yang menggambarkan sistem pembayaran dengan dua tipe tiket:
 
 Mulai dari atas, terdapat pilihan jenis tiket:
